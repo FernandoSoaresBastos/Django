@@ -1,0 +1,26 @@
+{
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+}
+
+  "editor.tokenColorCustomizations": {
+  "textMateRules": [
+    {
+      "scope": [
+        "keyword",
+        "storage",
+        "variable.language",
+        "support.function",
+        "entity.name.function"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+},
+"editor.fontLigatures": true
+
+}
